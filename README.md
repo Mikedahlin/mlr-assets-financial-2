@@ -79,3 +79,4 @@ Railway env vars (set values in project settings):
 - `http://localhost:3000/kira` should load KIRA page with AI chat.
 - Press `Checkout with Stripe` to verify redirect using configured Stripe keys.
 - Chat with KIRA should call `trpc.ai.chat` via LLM backend.
+# mlr-assets-financial-2
